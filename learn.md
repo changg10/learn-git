@@ -7,3 +7,14 @@ git push <远程仓库名称> <本地分支名>:<远程分支名>
 git push origin --delete master 删除分支
 git branch -M main #会将当前分支（master）强制重命名为main
 git branch  #查看当前分支名字
+
+
+shift+ctrl+p  打开
+-> Preferences:Open User Settings (JSON)
+
+
+
+
+
+
+
