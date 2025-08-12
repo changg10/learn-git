@@ -1,4 +1,4 @@
-记录学习git
+# 记录学习git
 git remote add origin git@github.com:changg10/learn-git.git
 git remote -v  
 git branch - main #指定分支的名字为main
@@ -8,7 +8,7 @@ git push origin --delete master 删除分支
 git branch -M main #会将当前分支（master）强制重命名为main
 git branch  #查看当前分支名字
 
-
+# vscode
 shift+ctrl+p  打开
 -> Preferences:Open User Settings (JSON)
 
